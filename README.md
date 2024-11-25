@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AIML
 - 📫 How to reach me : Reach me through Git
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There are only two genders in the World
+- ⚡ Fun fact: 
 
 <!---
 ManojMadavi/ManojMadavi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
